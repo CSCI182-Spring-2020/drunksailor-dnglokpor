@@ -1,5 +1,12 @@
-// DrunkSailor.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
+/*
+CSCI 182 - Assignment 5
+DrunkSailor.cpp
+Compute a random number of steps of a "drunk man" on a 20x20 map
+
+Brett Huffman
+v1.2 2/12/2020
+*/
 
 #include <iostream>
 #include <stdio.h>
